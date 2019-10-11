@@ -1,5 +1,4 @@
-package mx.ipn.cic.googlemapsapp;
-
+package com.cic.googlemaps;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
